@@ -10,5 +10,7 @@ html {
 }
 
 /* Write your solution here */
-@media only desktop {max 1196px} 
+@media only desktop and (max-width: 1196px) {
+  
+} 
 
